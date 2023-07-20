@@ -1,3 +1,9 @@
+# File containing API keys
+api_keys.py
+
+# .DS_Store. whatever those are
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
